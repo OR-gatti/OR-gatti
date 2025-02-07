@@ -1,6 +1,6 @@
 ### Hi there 👋
 beginner
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=OR-gatti&show_icons=true&locale=en&layout=compact)
 <!--
 **OR-gatti/OR-gatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
